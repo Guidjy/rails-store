@@ -26,8 +26,21 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/cache" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote-rbenv: ruby-3.4.8-p72" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.4.3, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.6.9, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="language_server-protocol (v3.17.0.5, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="lint_roller (v1.1.0, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.2, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-smtp (v0.5.1, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="prism (v1.9.0, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="racc (v1.8.1, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rainbow (v3.1.1, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rexml (v3.4.4, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.13.0, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v3.2.0, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicode-emoji (v4.2.0, Remote-rbenv: ruby-3.4.8-p72) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
